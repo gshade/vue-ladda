@@ -59,5 +59,5 @@
 
 <style lang="scss">
   // TODO: make themed a option?
-  @import '~ladda/css/ladda-themed.scss';
+  @import '~ladda/css/ladda.scss';
 </style>
